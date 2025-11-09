@@ -43,14 +43,6 @@ Git & GitHub – Version control and deployment (optional if used)
 ✅ Real-world business design approach
 ✅ Beginner-friendly and scalable code structure
 
-📁 Project Structure
-viswas-enterprises/
-│── index.html
-│── style.css
-│── assets/
-│   ├── images (logo, banners, etc.)
-│── README.md
-
 📸 Sections Included
 
 Hero section with company tagline
