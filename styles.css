@@ -53,7 +53,7 @@ button{
     font-size:16px;
     border-radius:8px;
 }
-.sec-1,.sec-2{
+.sec-1,.sec-2,.sec-3{
     padding-left:120px;
     padding-right:120px;
     padding-bottom: 120px;
@@ -112,4 +112,25 @@ h3{
 .card-flex{
     display:flex;
     gap:40px;
+}
+.sec-3{
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color:#E5E7EB;
+    padding-top:40px;
+}
+.quote{
+    font-size:36px;
+    color:#1F2937;
+    font-weight:300;
+    font-style: italic;
+}
+.quote-author{
+    font-size:18px;
+    color:#1F2937;
+    font-weight:600;
+    margin-top:10px;
+    text-align:right;
 }
