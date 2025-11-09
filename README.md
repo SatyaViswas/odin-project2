@@ -1,88 +1,64 @@
 # odin-project2
-🏗️ Viswas Enterprises – Construction Agency Website
+Viswas Enterprises – Construction Agency Website
 
-A responsive and visually structured website built for Viswas Enterprises, a construction and infrastructure solutions agency.
-This project was created as part of The Odin Project – Foundations Course, after learning CSS Flexbox, with the goal of applying layout techniques and structuring a real-world business-style webpage.
+Check out the live version here: https://satyaviswas.github.io/odin-project2/
 
-🚀 Live Preview
-https://satyaviswas.github.io/odin-project2/
+🚀 Project Overview
 
-🧠 Project Objective
+After completing the Flexbox module in The Odin Project, I researched construction-agency websites and built a responsive, multi-section webpage for my own agency, Viswas Enterprises.
+The site features a hero banner ("Building The Future"), services overview, and a call-to-action signup. 
+satyaviswas.github.io
 
-After completing the Flexbox module in The Odin Project, the task was to research, design, and build a website applying layout concepts.
-I chose to build a mock website for my own construction agency to make it realistic and meaningful.
-
-🏢 About Viswas Enterprises (Project Theme)
+🏢 About Viswas Enterprises
 
 Viswas Enterprises specializes in:
 
-Construction & infrastructure development
+Construction services
 
-Residential and commercial building projects
+Real-estate services
 
-Renovation and interior solutions
+Engineering solutions
 
-High-quality, durable, and customer-focused services
+Supplying raw materials 
+satyaviswas.github.io
 
-🛠️ Tech Stack Used
+The goal was to reflect a modern, professional infrastructure company.
 
-HTML5 – Structured website content
+🛠️ Technologies & Layout
 
-CSS3 – Styling and UI
+HTML5 for structure
 
-Flexbox – Major layout structuring
+CSS3 for styling
 
-Git & GitHub – Version control and deployment (optional if used)
+Flexbox for layout and alignment (navigation bar, service cards, etc.)
 
-💡 Key Features
+Responsive approach to ensure good display on different screen sizes
 
-✅ Responsive and clean layout using Flexbox
-✅ Multi-section business website structure
-✅ Navigation bar with smooth layout alignment
-✅ Sections for Services, About, Contact, and Hero Banner
-✅ Real-world business design approach
-✅ Beginner-friendly and scalable code structure
+✨ Key Features & Pages
 
-📸 Sections Included
+Hero section with tagline “Building The Future” and visible call-to-action. 
+satyaviswas.github.io
 
-Hero section with company tagline
+Multi-item Services section (Construction, Real Estate, Engineering, Raw Materials). 
+satyaviswas.github.io
 
-Services offered by the agency
+Navigation menu linking “Home”, “About”, “Contact”. 
+satyaviswas.github.io
 
-Quote section
-
-Footer with business branding
+Footer with copyright notice. 
+satyaviswas.github.io
 
 🎯 Learning Outcomes
 
-Through this project, I learned and implemented:
+Applied Flexbox to real-world layout challenges (horizontal nav, multi-column services, hero section).
 
-Effective use of CSS Flexbox for layouts
+Translated research into structured website content for a business theme.
 
-Structuring real-world business web pages
+Organized assets and code for clarity and scalability.
 
-Designing clean UI without frameworks
+Improved responsive design skills and visual hierarchy.
 
-Organizing code and assets properly
 
-Turning research into an actual product
+🤝 Acknowledgements
 
-🌱 Future Improvements
-
-I plan to enhance this project by adding:
-
-✅ Responsiveness for mobile devices (Media Queries)
-
-✅ JavaScript for interactivity
-
-✅ Contact form functionality
-
-✅ Animations and UI improvements
-
-🤝 Acknowledgments
-
-Thanks to The Odin Project for the learning path
-
-Inspiration from real construction agency websites
-
-Self-researched UI ideas and layouts
+Thanks to The Odin Project for the foundations course and Flexbox module. Inspiration drawn from real-world construction and infrastructure agency websites.
