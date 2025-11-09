@@ -47,11 +47,9 @@ Git & GitHub – Version control and deployment (optional if used)
 
 Hero section with company tagline
 
-About Us (mission & values)
-
 Services offered by the agency
 
-Contact information
+Quote section
 
 Footer with business branding
 
